@@ -1,3 +1,11 @@
+# PARKING LOT
+
+Why do we not have to import Sequelize in our api files when we are still using, for example, `.findAll`?
+
+
+
+
+
 # chronos
 
 *Good things come in pairs*
