@@ -1,5 +1,7 @@
 const User = require('./user');
+const Category = require('./category');
 const Product = require('./product');
+
 
 /**
  * If we had any associations to make, this would be a great place to put them!
@@ -16,5 +18,6 @@ const Product = require('./product');
  */
 module.exports = {
   User,
+  Category,
   Product
 };
